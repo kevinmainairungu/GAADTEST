@@ -56,6 +56,7 @@ dependencies {
     implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
     //Dependency injection
     implementation "com.google.dagger:hilt-android:$hilt_version"
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
     kapt "com.google.dagger:hilt-android-compiler:$hilt_version"
     implementation "androidx.hilt:hilt-lifecycle-viewmodel:$hilt_viewmodel_version"
     kapt "androidx.hilt:hilt-compiler:$hilt_viewmodel_version"
