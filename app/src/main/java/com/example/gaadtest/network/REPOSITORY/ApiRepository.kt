@@ -1,14 +1,14 @@
-package com.example.gaadtest.SERVICE.REPOSITORY
-
-import android.util.Log
+package com.example.gaadtest.network.REPOSITORY
 import com.example.gaadtest.MODEL.Hours
 import com.example.gaadtest.MODEL.Skills
-import com.example.gaadtest.SERVICE.ApiService
-import com.example.gaadtest.SERVICE.SubmissionService
+import com.example.gaadtest.network.ApiService
+import com.example.gaadtest.network.SubmissionService
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
+import timber.log.Timber
 import java.lang.Exception
 import javax.inject.Inject
+import com.example.gaadtest.network.Result
 
 class ApiRepository @Inject constructor(
     private val service: ApiService,
@@ -47,7 +47,7 @@ class ApiRepository @Inject constructor(
                     .await()
             })
         } catch (ex: Exception) {
-            Log.e("mistake", ex.message!!)
+            Timber.e(ex.message!!)
             return Result.Error(ex.message!!)
         }
     }

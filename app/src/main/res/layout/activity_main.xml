@@ -41,7 +41,7 @@
     </com.google.android.material.appbar.MaterialToolbar>
 
 
-    <androidx.fragment.app.FragmentContainerView
+    <fragment
         android:id="@+id/nav_host_fragment"
         android:name="androidx.navigation.fragment.NavHostFragment"
         android:layout_width="match_parent"
@@ -55,6 +55,6 @@
 
     <include
         android:id="@+id/loading_layout_container"
-         />
+        layout="@layout/loading_indicator" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

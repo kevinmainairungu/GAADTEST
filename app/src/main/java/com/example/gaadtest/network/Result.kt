@@ -1,4 +1,4 @@
-package com.example.gaadtest.SERVICE
+package com.example.gaadtest.network
 
 sealed class Result<out T : Any> {
     data class Success<out T : Any>(val data: T) : Result<T>()

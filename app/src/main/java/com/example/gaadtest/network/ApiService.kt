@@ -1,4 +1,4 @@
-package com.example.gaadtest.SERVICE
+package com.example.gaadtest.network
 
 import com.example.gaadtest.MODEL.Hours
 import com.example.gaadtest.MODEL.Skills

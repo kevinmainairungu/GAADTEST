@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/nav_graph"
-    tools:ignore="UnusedNavigation">
+    android:id="@+id/nav_graph.xml"
+    app:startDestination="@id/leaderBoardFragment">
 
+    <fragment
+        android:id="@+id/leaderBoardFragment"
+        android:name="com.example.gaadtest.UI.LeaderBoardFragment"
+        android:label="leader_board_fragment"
+        tools:layout="@layout/leader_board_fragment" >
+        <action
+            android:id="@+id/action_leaderBoardFragment_to_submissionFragment"
+            app:destination="@id/submissionFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/submissionFragment"
+        android:name="com.example.gaadtest.UI.submissions.SubmissionFragment"
+        android:label="submission_fragment"
+        tools:layout="@layout/submission_fragment" />
 </navigation>

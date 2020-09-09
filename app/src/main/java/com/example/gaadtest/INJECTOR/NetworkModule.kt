@@ -1,7 +1,7 @@
 package com.example.gaadtest.INJECTOR
 
-import com.example.gaadtest.SERVICE.ApiService
-import com.example.gaadtest.SERVICE.SubmissionService
+import com.example.gaadtest.network.ApiService
+import com.example.gaadtest.network.SubmissionService
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory

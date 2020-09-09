@@ -1,4 +1,4 @@
-package com.example.gaadtest.SERVICE
+package com.example.gaadtest.network
 
 import kotlinx.coroutines.Deferred
 import retrofit2.http.Field
