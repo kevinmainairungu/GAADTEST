@@ -101,8 +101,6 @@ Retrofit
 
 ## To Do List
 
-Add the various things that you are working on.  
-
 - [x] Multi-Activity 
 - [x] View pager
 - [x] Customizing Toolbar
