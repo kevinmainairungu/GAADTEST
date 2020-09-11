@@ -35,16 +35,16 @@ Google Africa scholarship practice test phase 2. Android application built with 
 ## General Preview
 #### Screenshots of the app
 
-![Screenshot 0](images/Launch.png) ![Screenshot 1](images/Launch.png) ![Screenshot 2](images/Launch.png)
+![Screenshot 0](images/Launch.png) 
 
-##### Or combine 3 of them as:
-![3images](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3screens.jpg)
+##### Learners:
+![3image](images/Group 106.png)
 
-##### Or combine 2 of them as:
-![2images](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/2In1Mix.jpg)
+##### Or Skills:
+![2images](images/Group 107.png)
 
-##### Or have image with a spoiller explanation:
-![WithExplanations](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/withexplanations.jpg)
+##### Submit Project:
+![WithExplanations](images/Group 108.png)
 
 
 #### App Stores
