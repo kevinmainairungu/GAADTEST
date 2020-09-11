@@ -28,6 +28,7 @@
 
 <hr>
 ## About the app
+
 Google Africa scholarship practice test phase 2. Android application built with Kotlin to display a LeaderBoard on top learners and their skills
 
 <hr>
