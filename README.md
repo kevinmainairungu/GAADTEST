@@ -142,5 +142,5 @@ For personal feedback or questions feel free to contact me via the mail address,
 
 #### Developer
 * e-mail: mainairungu99@gmail.com
-* Twitter: [@yourtwitterhandle](https://twitter.com/maina_irungu_ "maina_irungu")
+* Twitter: [@maina_irungu_](https://twitter.com/maina_irungu_ "maina_irungu_")
 
