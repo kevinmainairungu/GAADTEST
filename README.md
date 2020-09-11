@@ -68,7 +68,6 @@ You can:
     c. You can check it out already compiled at Google Play(Mostly the one that is last to be published.)
         Downoad it here: [Download App](https://play.google.com/store/apps/details?id=com.package.path)
 
-*include option c if you have published the app on the palystore.
 <hr>
 
 ### TECHNICAL
