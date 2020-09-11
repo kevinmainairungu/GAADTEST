@@ -139,15 +139,7 @@ For any concerns, please open an [issue{edit this}](https://github.com/kevinmain
 For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/kevinmainairungu). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/kevinmainairungu/GAADTEST/issues) to report them.
 
 
-#### Developer/Company
+#### Developer
 * e-mail: mainairungu99@gmail.com
 * Twitter: [@yourtwitterhandle](https://twitter.com/maina_irungu_ "maina_irungu")
-* other communication channels i.e Social Media, Forum etc
-
-
-https://contributors-img.firebaseapp.com/
-
-<hr>
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
