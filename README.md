@@ -38,13 +38,13 @@ Google Africa scholarship practice test phase 2. Android application built with 
 ![Screenshot 0](images/Launch.png) 
 
 ##### Learners:
-![3image](images/Group 106.png)
+![Screenshot 0](images/Group 106.png)
 
 ##### Or Skills:
-![2images](images/Group 107.png)
+![Screenshot 0](images/Group 107.png)
 
 ##### Submit Project:
-![WithExplanations](images/Group 108.png)
+![Screenshot](images/Group 108.png) width 200px
 
 
 #### App Stores
