@@ -29,13 +29,13 @@
 <hr>
 ## About the app
 
-Google Africa scholarship practice test phase 2. Android application built with Kotlin to display a LeaderBoard on top learners and their skills
+Google Africa scholarship practice test phase 2. Android application built with Kotlin to display a LeaderBoard on top learners and their skills.
 
 <hr>
 ## General Preview
 #### Screenshots of the app
 
-<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200">
+<img src="images/Launch.png" width="200">
 <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/2.jpg" width="200">
 <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3.jpg" width="200">
 
