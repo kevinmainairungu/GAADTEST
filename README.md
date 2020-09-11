@@ -1,9 +1,6 @@
 <p align="center">
-  <a href="https://github.com/yourUserName/YourProjectName">
-    <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/art/readmEmasterTemplatesAndroid.jpg" alt="Project Name" width=250 height=160>
-  </a>
-  <h3 align="center">Your Project Heading</h3>
-
+  <h3 align="center">GAADS ANDROID PRACTICE PROJECT</h3>
+  
   <p align="center">
     Brief description about your project. <br>
    And extra description.

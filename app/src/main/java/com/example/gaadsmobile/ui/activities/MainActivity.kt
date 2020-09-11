@@ -3,6 +3,7 @@ package com.example.gaadsmobile.ui.activities
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 import androidx.databinding.DataBindingUtil
 import com.example.gaadsmobile.R
 import com.example.gaadsmobile.adapters.SectionsPagerAdapter
@@ -27,4 +28,6 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
+
+
 }
