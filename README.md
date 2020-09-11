@@ -35,9 +35,7 @@ Google Africa scholarship practice test phase 2. Android application built with 
 ## General Preview
 #### Screenshots of the app
 
-<img src="images/Launch.png" width="200">
-<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/2.jpg" width="200">
-<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3.jpg" width="200">
+![Screenshot 0](images/Launch.png) ![Screenshot 1](images/Launch.png) ![Screenshot 2](images/Launch.png)
 
 ##### Or combine 3 of them as:
 ![3images](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3screens.jpg)
