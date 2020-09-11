@@ -2,7 +2,7 @@
   <h3 align="center">GAADS ANDROID PRACTICE PROJECT</h3>
   
   <p align="center">
-    Brief description about your project. <br>
+    Google Africa scholarship practice test. <br>
    And extra description.
     <br>
      <img src="https://forthebadge.com/images/badges/built-for-android.svg" alt="droidconKE2020 built for Android">
@@ -28,12 +28,11 @@
 
 <hr>
 ## About the app
-Short description of how it works: maybe a small user flow description.
+Google Africa scholarship practice test phase 2. Android application built with Kotlin to display a LeaderBoard on top learners and their skills
 
 <hr>
 ## General Preview
 #### Screenshots of the app
-You can have multiple images like below.
 
 <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200">
 <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/2.jpg" width="200">
