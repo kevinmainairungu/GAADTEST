@@ -92,21 +92,24 @@ You can:
 
 
 #### Dependencies
+Picasso
+Glide
+Gson
+Timber
+RecyclerView
+Retrofit
 
 ## To Do List
 
 Add the various things that you are working on.  
 
-- [ ] Adding bounce animations to the home screen
-- [x] Creating a gallery
-- [x] Updating the App to gradle 4.0
-- [x] Praying that this thing works
-- [ ] Adding various potatoes to be eaten in the couch
-- [ ] Building a castle in the air
-- [ ] Listening to new music from my favourite artist
-
-
-
+- [x] Multi-Activity 
+- [x] View pager
+- [x] Customizing Toolbar
+- [x] RecyclerView
+- [x] Making Network Request
+- [x] Working with Google Form
+- [x] Api Requests
 
 
 #### CONTRIBUTING
