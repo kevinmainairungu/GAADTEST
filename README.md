@@ -44,18 +44,16 @@ Google Africa scholarship practice test phase 2. Android application built with 
 ![Screenshot 2](images/Group107.png)
 
 ##### Submit Project:
-![Screenshot 3](images/Group108.png) width 200px
+![Screenshot 3](images/Group108.png) 
 
 
-#### App Stores
-Is the app published? You can share a link as below:
+#### Play Store
 
 [![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
 
 <hr>
 ## Technical
 ## Permissions
-* Any permissions needed by the app i.e:
 
 1. Internet
 2. Browse phone
@@ -84,7 +82,7 @@ You can:
 
 **2. Clone this repository :**
  
-         `git clone https://github.com/username/projectname.git`
+         `git clone https://github.com/kevinmainairungu/GAADTEST`
          
 **3. open Project in Android Studio
 
@@ -113,37 +111,37 @@ Add the various things that you are working on.
 
 #### CONTRIBUTING
 ### Assets
-* Credit to artists(music,images,gifs...)
+
+[Resources](https://drive.google.com/drive/folders/1l-huMnFzu0Lh_olBCzHgovsUCwbKouMb)
 
 ### List of the Contributors on GitHub
-* [Contributors](https://github.com/username/projectName/graphs/contributors)
+* [Contributors](https://github.com/kevinmainairungu/GAADTEST/graphs/contributors)
 
 ### Want to contribute?
 I would/ We'd love to have your help in making  **{this app (replace with name of your project)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
 
-Before you contribute though read the contributing guide here: [COntributing.md{edit this}](https://github.com/YourUserNameHere/ProjectName/contributing.md)
+Before you contribute though read the contributing guide here: [COntributing.md{edit this}](https://github.com/kevinmainairungu/GAADTEST/contributing.md)
 
-For any concerns, please open an [issue{edit this}](https://github.com/YourUserNameHere/ProjectName/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/YourUserNameHere/ProjectName/pulls). 
+For any concerns, please open an [issue{edit this}](https://github.com/kevinmainairungu/GAADTEST/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/YourUserNameHere/ProjectName/pulls). 
 
 <hr>
 
 ## License 
-* see [LICENSE](https://github.com/YourUserNameHere/ProjectName/LICENSE.md) file
+* see [LICENSE](https://github.com/kevinmainairungu/GAADTEST/LICENSE.md) file
 
 
 ## Versions 
-* Version X.Y  DATE 12/2/2019
+* Version 1.0  DATE 11/9/2020
 
 
 
 ## Contributers
-For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
+For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/kevinmainairungu). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/kevinmainairungu/GAADTEST/issues) to report them.
 
 
 #### Developer/Company
-* Homepage:  
-* e-mail: 
-* Twitter: [@yourtwitterhandle](https://twitter.com/yourTwitterHandle "YourName on twitter")
+* e-mail: mainairungu99@gmail.com
+* Twitter: [@yourtwitterhandle](https://twitter.com/maina_irungu_ "maina_irungu")
 * other communication channels i.e Social Media, Forum etc
 
 
@@ -151,14 +149,5 @@ https://contributors-img.firebaseapp.com/
 
 <hr>
 
-If its open source:
-
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
-If the Licence is MIT:
-
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)]()
-
-#### project-donation
-
-You can add *Gittip/Flattr/Paypal* buttons like this:
