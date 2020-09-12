@@ -49,7 +49,7 @@ Google Africa scholarship practice test phase 2. Android application built with 
 
 #### Play Store
 
-[![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
+Coming Soon
 
 <hr>
 ## Technical
@@ -107,6 +107,7 @@ Retrofit
 - [x] Making Network Request
 - [x] Working with Google Form
 - [x] Api Requests
+- [ ] push to store
 
 
 #### CONTRIBUTING
