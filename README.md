@@ -33,6 +33,8 @@ Google Africa scholarship practice test phase 2. Android application built with 
 
 <hr>
 ## General Preview
+
+
 #### Screenshots of the app
 
 ![Screenshot 0](images/Launch.png) 
