@@ -16,7 +16,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.gaadsmobile"
+        applicationId "com.kevin.gaadsmobile"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1

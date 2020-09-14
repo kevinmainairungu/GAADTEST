@@ -1,13 +1,13 @@
-package com.example.gaadsmobile.ui.activities
+package com.kevin.gaadsmobile.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Patterns
 import androidx.databinding.DataBindingUtil
-import com.example.gaadsmobile.R
-import com.example.gaadsmobile.api.RetrofitClient
-import com.example.gaadsmobile.databinding.ActivitySubmitBinding
-import com.example.gaadsmobile.ui.fragments.AlertFragment
+import com.kevin.gaadsmobile.R
+import com.kevin.gaadsmobile.api.RetrofitClient
+import com.kevin.gaadsmobile.databinding.ActivitySubmitBinding
+import com.kevin.gaadsmobile.ui.fragments.AlertFragment
 import com.google.android.material.snackbar.Snackbar
 import retrofit2.Call
 import retrofit2.Callback

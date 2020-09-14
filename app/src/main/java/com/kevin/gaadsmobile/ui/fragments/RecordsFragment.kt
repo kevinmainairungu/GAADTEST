@@ -1,4 +1,4 @@
-package com.example.gaadsmobile.ui.fragments
+package com.kevin.gaadsmobile.ui.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,9 +7,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.Observer
-import com.example.gaadsmobile.adapters.RecordsAdapter
-import com.example.gaadsmobile.databinding.FragmentRecordsBinding
-import com.example.gaadsmobile.vmodels.RecordsViewModel
+import com.kevin.gaadsmobile.adapters.RecordsAdapter
+import com.kevin.gaadsmobile.databinding.FragmentRecordsBinding
+import com.kevin.gaadsmobile.vmodels.RecordsViewModel
 
 
 /**

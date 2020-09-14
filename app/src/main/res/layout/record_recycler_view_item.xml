@@ -7,7 +7,7 @@
 
         <variable
             name="record"
-            type="com.example.gaadsmobile.models.Record" />
+            type="com.kevin.gaadsmobile.models.Record" />
     </data>
 
     <androidx.cardview.widget.CardView

@@ -1,4 +1,4 @@
-package com.example.gaadsmobile.api
+package com.kevin.gaadsmobile.api
 import retrofit2.Call
 import retrofit2.http.Field
 import retrofit2.http.FormUrlEncoded

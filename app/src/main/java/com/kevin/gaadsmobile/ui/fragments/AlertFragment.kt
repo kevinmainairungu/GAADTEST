@@ -1,4 +1,4 @@
-package com.example.gaadsmobile.ui.fragments
+package com.kevin.gaadsmobile.ui.fragments
 
 import android.app.AlertDialog
 import android.app.Dialog
@@ -12,8 +12,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.DialogFragment
-import com.example.gaadsmobile.R
-import com.example.gaadsmobile.databinding.FragmentAlertBinding
+import com.kevin.gaadsmobile.R
+import com.kevin.gaadsmobile.databinding.FragmentAlertBinding
 
 private const val ARG_PARAM_TYPE = "alert_type"
 

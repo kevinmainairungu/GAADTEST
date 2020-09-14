@@ -1,10 +1,10 @@
-package com.example.gaadsmobile.adapters
+package com.kevin.gaadsmobile.adapters
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.gaadsmobile.databinding.RecordRecyclerViewItemBinding
-import com.example.gaadsmobile.models.Record
+import com.kevin.gaadsmobile.databinding.RecordRecyclerViewItemBinding
+import com.kevin.gaadsmobile.models.Record
 
 class RecordsAdapter : RecyclerView.Adapter<RecordsAdapter.RecordViewHolder>() {
 

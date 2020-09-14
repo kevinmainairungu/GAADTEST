@@ -1,4 +1,4 @@
-package com.example.gaadsmobile.vmodels
+package com.kevin.gaadsmobile.vmodels
 
 import android.widget.ImageView
 import androidx.databinding.BindingAdapter

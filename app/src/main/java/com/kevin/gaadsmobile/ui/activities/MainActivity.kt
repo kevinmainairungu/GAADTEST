@@ -1,13 +1,12 @@
-package com.example.gaadsmobile.ui.activities
+package com.kevin.gaadsmobile.ui.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Toast
 import androidx.databinding.DataBindingUtil
-import com.example.gaadsmobile.R
-import com.example.gaadsmobile.adapters.SectionsPagerAdapter
-import com.example.gaadsmobile.databinding.ActivityMainBinding
+import com.kevin.gaadsmobile.R
+import com.kevin.gaadsmobile.adapters.SectionsPagerAdapter
+import com.kevin.gaadsmobile.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

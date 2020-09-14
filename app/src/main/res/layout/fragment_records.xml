@@ -9,7 +9,7 @@
 
         <variable
             name="model"
-            type="com.example.gaadsmobile.vmodels.RecordsViewModel" />
+            type="com.kevin.gaadsmobile.vmodels.RecordsViewModel" />
     </data>
 
     <FrameLayout

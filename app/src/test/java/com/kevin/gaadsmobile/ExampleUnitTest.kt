@@ -1,4 +1,4 @@
-package com.example.gaadsmobile
+package com.kevin.gaadsmobile
 
 import org.junit.Test
 

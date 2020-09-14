@@ -1,10 +1,10 @@
-package com.example.gaadsmobile.ui.activities
+package com.kevin.gaadsmobile.ui.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
-import com.example.gaadsmobile.R
+import com.kevin.gaadsmobile.R
 
 class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

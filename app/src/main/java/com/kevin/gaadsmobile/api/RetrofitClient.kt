@@ -1,4 +1,4 @@
-package com.example.gaadsmobile.api
+package com.kevin.gaadsmobile.api
 
 import android.util.Log
 import retrofit2.Retrofit

@@ -1,11 +1,11 @@
-package com.example.gaadsmobile.vmodels
+package com.kevin.gaadsmobile.vmodels
 
 import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.gaadsmobile.api.RetrofitClient
-import com.example.gaadsmobile.models.Record
+import com.kevin.gaadsmobile.api.RetrofitClient
+import com.kevin.gaadsmobile.models.Record
 import com.google.gson.Gson
 import org.json.JSONArray
 import retrofit2.Call

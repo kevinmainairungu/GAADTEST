@@ -1,4 +1,4 @@
-package com.example.gaadsmobile.models
+package com.kevin.gaadsmobile.models
 
 
 data class Record(
