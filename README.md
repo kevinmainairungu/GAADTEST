@@ -123,9 +123,9 @@ Retrofit
 ### Want to contribute?
 I would/ We'd love to have your help in making  **{this app (replace with name of your project)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
 
-Before you contribute though read the contributing guide here: [COntributing.md{edit this}](https://github.com/kevinmainairungu/GAADTEST/contributing.md)
+Before you contribute though read the contributing guide here: [COntributing.md{https://github.com/kevinmainairungu/GAADTEST/contributing.md}](https://github.com/kevinmainairungu/GAADTEST/contributing.md)
 
-For any concerns, please open an [issue{edit this}](https://github.com/kevinmainairungu/GAADTEST/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/YourUserNameHere/ProjectName/pulls). 
+For any concerns, please open an [issue{}](https://github.com/kevinmainairungu/GAADTEST/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/YourUserNameHere/ProjectName/pulls). 
 
 <hr>
 
