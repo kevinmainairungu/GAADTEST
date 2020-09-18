@@ -32,6 +32,11 @@
 Google Africa scholarship practice test phase 2. Android application built with Kotlin to display a LeaderBoard on top learners and their skills.
 
 <hr>
+
+#### App Stores
+
+[![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.kevin.gaadsmobile)
+
 ## General Preview
 
 
@@ -109,7 +114,7 @@ Retrofit
 - [x] Making Network Request
 - [x] Working with Google Form
 - [x] Api Requests
-- [ ] push to store
+- [x] push to store
 
 
 #### CONTRIBUTING
