@@ -40,17 +40,17 @@ Google Africa scholarship practice test phase 2. Android application built with 
 ## General Preview
 
 
-#### Screenshots of the app
+### Screenshots of the app
 
 ![Screenshot 0](images/Launch.png) 
 
-##### Learners:
+### Learners:
 ![Screenshot 1](images/Group106.png)
 
-##### Or Skills:
+### Or Skills:
 ![Screenshot 2](images/Group107.png)
 
-##### Submit Project:
+### Submit Project:
 ![Screenshot 3](images/Group108.png) 
 
 
@@ -83,7 +83,7 @@ You can:
 
 **1. Required to run project:**
        ` - To run this project use Android studio 3.* and later. It will be less messy.
-         - Gradle version used: gradle 4.0. You can use multiple gradle versions vby having them stored offline. [You can read this to set it up.](www.sth)
+         - Gradle version used: gradle 4.0. You can use multiple gradle versions vby having them stored offline.
         `
 
 **2. Clone this repository :**
