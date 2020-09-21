@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.gaadsmobile",
+  "applicationId": "com.kevin.gaadsmobile",
   "variantName": "release",
   "elements": [
     {
