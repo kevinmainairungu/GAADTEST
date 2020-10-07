@@ -55,6 +55,7 @@ Coming Soon
 
 <hr>
 ## Technical
+
 ## Permissions
 
 1. Internet
