@@ -75,7 +75,7 @@ You can:
 
 ## Package Structure
     
-    dev.shreyaspatil.foodium    # Root Package
+    com.kevinmainaiurngu.GAADTEST    # Root Package
     .
     ├── data                # For data handling.
     │   ├── local           # Local Persistence Database. Room (SQLite) database
